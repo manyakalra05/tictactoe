@@ -79,3 +79,4 @@ const checkWinner = () => {
 
 newGameBtn.addEventListener("click", resetGame);
 resetbtn.addEventListener("click", resetGame);
+<!-- 2024-11-18T22:52:21+05:30 -->
