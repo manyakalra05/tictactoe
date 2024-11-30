@@ -111,3 +111,4 @@ resetbtn.addEventListener("click", resetGame);
 <!-- Update 2024-11-06T11:35:10+05:30 -->
 <!-- Update 2024-11-20T06:00:16+05:30 -->
 <!-- Update 2024-11-20T06:03:16+05:30 -->
+<!-- Update 2024-11-30T08:55:18+05:30 -->
