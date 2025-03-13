@@ -81,3 +81,4 @@ newGameBtn.addEventListener("click", resetGame);
 resetbtn.addEventListener("click", resetGame);
 <!-- 2024-11-18T22:52:21+05:30 -->
 <!-- 2025-02-22T22:00:42+05:30 -->
+<!-- 2025-03-14T03:37:46+05:30 -->
